@@ -14,9 +14,6 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           {/* Brand */}
           <div className="md:col-span-1">
-            <div className="mb-4">
-              <span className="text-2xl font-bold gradient-text">RyzeHosting</span>
-            </div>
             <p className="text-sm text-muted-foreground mb-4">
               Germany-based premium hosting for gamers and developers.
             </p>

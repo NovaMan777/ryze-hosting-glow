@@ -18,13 +18,6 @@ const TestimonialsSection = () => {
       rating: 5,
       avatar: "TD",
     },
-    {
-      name: "StreamQueen",
-      role: "Content Creator",
-      content: "Running my game servers for community events has never been easier. One-click setup is real, and the uptime is phenomenal. Love it!",
-      rating: 5,
-      avatar: "SQ",
-    },
   ];
 
   return (

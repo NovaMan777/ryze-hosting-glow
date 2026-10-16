@@ -11,13 +11,6 @@ const ProductsSection = () => {
       features: ["One-click installs", "Mod support", "Auto backups", "Custom control panel"],
       gradient: "from-magenta to-purple-pink",
     },
-    {
-      icon: Server,
-      title: "VPS & Root Servers",
-      description: "Full root access Linux servers with KVM virtualization. Perfect for developers and businesses.",
-      features: ["Full root access", "99.9% uptime SLA", "NVMe SSD storage", "Unlimited traffic"],
-      gradient: "from-purple-pink to-deep-purple",
-    },
   ];
 
   return (

@@ -12,12 +12,6 @@ const HeroSection = () => {
       <div className="absolute bottom-20 right-10 w-96 h-96 bg-deep-purple/10 dark:bg-deep-purple/5 rounded-full blur-3xl animate-float" style={{ animationDelay: "2s" }} />
       
       <div className="container mx-auto px-4 relative z-10">
-        <div className="max-w-4xl mx-auto text-center">
-          {/* Badge */}
-          <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-primary/10 border border-primary/20 mb-6 animate-fade-up">
-            <Zap className="w-4 h-4 text-primary" />
-            <span className="text-sm font-medium">Powered by Germany's Premium Infrastructure</span>
-          </div>
           
           {/* Main headline */}
           <h1 className="text-5xl md:text-7xl font-bold mb-6 animate-fade-up" style={{ animationDelay: "0.1s" }}>
